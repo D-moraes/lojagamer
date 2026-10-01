@@ -6,7 +6,12 @@ const Home = () => {
   const games = [
     { id: 1, titulo: "Jogo-01", preco: "R$ 400,00", imagem: jogoImg },
     { id: 2, titulo: "Jogo-02", preco: "R$ 350,00", imagem: jogoImg },
-    { id: 3, titulo: "Jogo-03", preco: "R$ 250,00", imagem: jogoImg }
+    { id: 3, titulo: "Jogo-03", preco: "R$ 250,00", imagem: jogoImg },
+    { id: 4, titulo: "Jogo-04", preco: "R$ 300,00", imagem: jogoImg },
+    { id: 5, titulo: "Jogo-05", preco: "R$ 350,00", imagem: jogoImg },
+    { id: 6, titulo: "Jogo-06", preco: "R$ 150,00", imagem: jogoImg },
+    { id: 6, titulo: "Jogo-07", preco: "R$ 450,00", imagem: jogoImg },
+    { id: 6, titulo: "Jogo-08", preco: "R$ 400,00", imagem: jogoImg }
   ];
 
   return (
